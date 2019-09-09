@@ -10,5 +10,8 @@
         <item
             android:title="History"
             android:id="@+id/History" />
+        <item
+            android:title="Converter"
+            android:id="@+id/Converter" />
     </group>
 </menu>

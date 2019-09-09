@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Converter"></activity>
         <activity android:name=".History" />
         <activity android:name=".History2" />
-
         <activity android:name=".Advanced" />
         <activity android:name=".MainActivity">
             <intent-filter>
