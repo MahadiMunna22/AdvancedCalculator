@@ -97,6 +97,10 @@ public class History extends AppCompatActivity implements NavigationView.OnNavig
             Intent i = new Intent(getApplicationContext(), History.class);
             startActivity(i);
         }
+        else if(item.getItemId() == R.id.Converter) {
+            Intent i = new Intent(getApplicationContext(), Converter.class);
+            startActivity(i);
+        }
         return false;
     }
 }
