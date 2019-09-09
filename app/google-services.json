@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459063574183",
+    "firebase_url": "https://advanced-calculator-c0e89.firebaseio.com",
+    "project_id": "advanced-calculator-c0e89",
+    "storage_bucket": "advanced-calculator-c0e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459063574183:android:87e3d8c5af3cb9e1",
+        "android_client_info": {
+          "package_name": "com.example.advancedcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459063574183-5kbqt76976gl9jeshsums8eoflrcdep7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.advancedcalculator",
+            "certificate_hash": "fe041c6a1a44bd1d3f276ee2dcb69361461e18b9"
+          }
+        },
+        {
+          "client_id": "459063574183-f3gp3c1a874eva74i77hu4v8q0uac2ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jn_VVxnYMo5JyLquPu0ekfRUQRyDVVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459063574183-f3gp3c1a874eva74i77hu4v8q0uac2ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
